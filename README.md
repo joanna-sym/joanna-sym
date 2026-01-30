@@ -59,7 +59,7 @@
   <table border="0">
     <tr>
       <td width="30%" align="center" valign="center">
-        <img src="qrcode.jpg" width="150" alt="WeChat QR Code"><br>
+        <img src="Wechat-Joanna.jpg" width="150" alt="WeChat QR Code"><br>
         <b>Scan to Chat</b>
       </td>
       <td valign="center">
